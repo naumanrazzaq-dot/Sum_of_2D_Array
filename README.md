@@ -1,1 +1,1 @@
-# Sum_of_2D_Array
+This is C++ program in which we have to print the sum of 2D array.
